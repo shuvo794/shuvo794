@@ -1,5 +1,5 @@
-
 ![ I'm a Front-End Web Developer based in Bangladesh and I'm learning new things everyday.](https://media-exp1.licdn.com/dms/image/C4E16AQHam80PrMiMVw/profile-displaybackgroundimage-shrink_200_800/0/1638280343987?e=1643846400&v=beta&t=MU49lHas6ZsvZhBjZQsHKKV0s7TiN2-MuSPw6mz6wUY)
+
 ### Hi there 👋, I'm Shoukat Bhowhaya Shovo
 ####  I'm a Front-End Web Developer based in Bangladesh and I'm learning new things everyday.
 
@@ -12,8 +12,6 @@ Skills: html, .css, js, react.js, node.js, express.js, .svg
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shuvo794)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sa_kha_wat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eager-jones-f8cf05.netlify.app/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shuvo794)](https://github.com/ryo-ma/github-profile-trophy)
 
