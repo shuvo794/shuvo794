@@ -1,16 +1,30 @@
-# Hi there 👋
 
-<!--
-**shuvo794/shuvo794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ I'm a Front-End Web Developer based in Bangladesh and I'm learning new things everyday.](https://media-exp1.licdn.com/dms/image/C4E16AQHam80PrMiMVw/profile-displaybackgroundimage-shrink_200_800/0/1638280343987?e=1643846400&v=beta&t=MU49lHas6ZsvZhBjZQsHKKV0s7TiN2-MuSPw6mz6wUY)
+### Hi there 👋, I'm Shoukat Bhowhaya Shovo
+####  I'm a Front-End Web Developer based in Bangladesh and I'm learning new things everyday.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: html, .css, js, react.js, node.js, express.js, .svg
+
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to collaborate on github 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shuvo794)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sa_kha_wat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eager-jones-f8cf05.netlify.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shuvo794)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo794)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvo794&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shuvo794)  
+
+![GitHub metrics](https://metrics.lecoq.io/shuvo794)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shuvo794)  
+
+![Profile views](https://gpvc.arturio.dev/shuvo794)  
