@@ -1,4 +1,4 @@
-![ I'm a Front-End Web Developer based in Bangladesh and I'm learning new things everyday.]
+
 ### Hi there 👋, I'm Shoukat Bhowhaya Shovo
 ####  I'm a Front-End Web Developer based in Bangladesh and I'm learning new things everyday.
 
