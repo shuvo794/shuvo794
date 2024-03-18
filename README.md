@@ -43,10 +43,15 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009713476649) 
 [![Email ](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=1976d2&logo=email&logoColor=ffffff)](shuvohossain794@gmail.com) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo794)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Overview
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvo794&show_icons=true&count_private=true)  
+
+  <br/>
+  <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo794)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
