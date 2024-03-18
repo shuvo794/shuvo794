@@ -38,10 +38,14 @@
   <br/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shuvo794)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sa_kha_wat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://lustrous-llama-f7d10c.netlify.app/)  
+### Connect with me:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shoukatshovo/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100009713476649) 
+[![Email ](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=1976d2&logo=email&logoColor=ffffff)](shuvohossain794@gmail.com) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo794)](https://github.com/anuraghazra/github-readme-stats)
 
+## Overview
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuvo794&show_icons=true&count_private=true)  
 
 
