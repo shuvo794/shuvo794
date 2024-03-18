@@ -5,7 +5,7 @@
 
 <br/>
 
-<p> Technologies Badges </p>
+## Technologies & Tools
 
 <div>    
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
