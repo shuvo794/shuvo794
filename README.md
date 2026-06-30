@@ -31,7 +31,7 @@
 
 <br/>
 
-* 🌱 I’m currently learning Web Development 
+* 🌱 I’m currently learning C# 
 * 👯 I’m looking to collaborate on GitHub
 
 
