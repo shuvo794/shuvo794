@@ -159,16 +159,6 @@ Specialized in production-level ERP and enterprise application development, focu
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shuvo794/shuvo794/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-> *Note: The Snake Animation updates automatically every 24 hours via GitHub Actions.*
-
----
-
 ## 🌱 Currently Learning & 🎯 2026 Goals
 
 - 📱 Master **React Native** & Cross-Platform Mobile Architecture
