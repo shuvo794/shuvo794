@@ -1,21 +1,23 @@
-# 👋 Hi, I'm Shoukat Bhowhaya Shovo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Shoukat%20Bhowhaya%20Shovo&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Software+Engineer;React.js+%7C+Next.js+%7C+TypeScript;React+Native+Developer;Building+Modern+Web+%26+Mobile+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Frontend+Software+Engineer;React.js+%7C+Next.js+%7C+TypeScript;React+Native+Developer;Building+Modern+Web+%26+Mobile+Applications" />
 </p>
 
 <p align="center">
   <a href="https://github.com/shuvo794">
-    <img src="https://komarev.com/ghpvc/?username=shuvo794&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=shuvo794&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/shuvo794?tab=followers">
-    <img src="https://img.shields.io/github/followers/shuvo794?label=Followers&style=flat&color=0e75b6" />
+    <img src="https://img.shields.io/github/followers/shuvo794?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
   </a>
   <a href="https://github.com/shuvo794">
-    <img src="https://img.shields.io/github/stars/shuvo794?style=flat&color=yellow" />
+    <img src="https://img.shields.io/github/stars/shuvo794?style=flat-square&color=yellow" alt="Stars" />
   </a>
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue" />
-  <img src="https://img.shields.io/badge/React-Native-61DAFB" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-0e75b6?style=flat-square" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
 </p>
 
 ---
@@ -27,216 +29,25 @@ I'm a **Frontend Software Engineer from Bangladesh** with **3+ years of professi
 I have worked on **large-scale ERP systems, enterprise applications, dashboards, healthcare platforms, corporate websites, and data-driven applications**. Currently, I'm also working with **React Native** to expand my experience into cross-platform mobile application development.
 
 ### 💡 What I Do
-- ⚛️ React.js & Next.js development
-- 📱 React Native mobile development
-- 🧩 Reusable & scalable component architecture
-- 🎨 Pixel-perfect UI implementation
-- 🔌 REST API integration
-- 📊 Dashboard & data-driven interfaces
-- 🔐 Authentication & authorization
-- ⚡ Performance optimization
-- 📱 Responsive web & mobile applications
-- 🧠 AI-assisted development
-- 🏗️ Production-level frontend architecture
+- ⚛️ **React.js & Next.js** Web Development
+- 📱 **React Native** Cross-Platform Mobile Development
+- 🧩 Reusable & Scalable Component Architecture
+- 🎨 Pixel-Perfect UI Implementation & Design Systems
+- 🔌 REST API Integration & Data Fetching
+- 📊 Dashboard & Data-Driven Interfaces
+- 🔐 Authentication & Role-Based Authorization
+- ⚡ Frontend Performance Optimization
+- 🧠 AI-Assisted Development & Engineering
 
 ---
 
-# 🛠️ Tech Stack
-
-## ⚛️ Frontend
+# 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,redux,vite,nodejs,express,mongodb,figma,postman,docker,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
-### Frontend Technologies
-```text
-React.js
-Next.js
-TypeScript
-JavaScript ES6+
-HTML5
-CSS3
-Tailwind CSS
-Bootstrap
-Material UI
-Shadcn UI
-Responsive Design
-Pixel Perfect UI
-Component Architecture
-Design Systems
-```
-
-### 📱 React Native
-Currently working with:
-- React Native
-- Expo
-- React Navigation
-- REST API Integration
-- Reusable Mobile Components
-- Responsive Mobile UI
-- Cross-platform Development
-
-### 🧠 State Management & Data Fetching
-- Redux
-- Redux Toolkit
-- RTK Query
-- React Query / TanStack Query
-- Context API
-- Axios
-- React Hook Form
-- Zod
-
-### 🔌 Backend & Database
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
-- API Integration
-- Basic Backend Development
-
-### 🎨 UI / UX & Design
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Material UI
-- Tailwind CSS
-- Bootstrap
-- Shadcn UI
-- Responsive UI
-- Design Systems
-- Pixel Perfect Implementation
-
-### 🧰 Tools & Development
-- Git
-- GitHub
-- VS Code
-- Docker
-- Postman
-- NPM
-- Chrome DevTools
-- REST Client
-
----
-
-## 💼 Professional Experience
-
-### Software Engineer — Frontend
-I have professional experience working on production-level ERP and enterprise applications, focusing mainly on frontend architecture, UI development, API integration, performance, and user experience.
-
-#### 🚀 Key Responsibilities
-- Develop applications using React.js & Next.js
-- Build reusable and scalable UI components
-- Convert Figma/UI designs into responsive interfaces
-- Integrate REST APIs and third-party services
-- Implement authentication and authorization
-- Manage application state using Redux Toolkit / RTK Query
-- Build dashboards and data-heavy interfaces
-- Develop complex forms using React Hook Form
-- Implement validation using Zod
-- Generate PDF and Excel reports
-- Optimize frontend performance
-- Debug and maintain production applications
-- Collaborate with backend developers and designers
-- Follow Git-based development workflows
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 RAMS — Recruiting Agency Management System
-A large-scale Recruiting Agency Management System (ERP) designed to manage recruitment operations and passenger-related workflows.
-
-#### 🔥 Key Features
-- ✓ Passenger Management
-- ✓ Employee Management
-- ✓ Passport Data Processing
-- ✓ Biometric Passenger Management
-- ✓ Excel Upload
-- ✓ ZIP File Upload
-- ✓ PDF Reports
-- ✓ Excel Reports
-- ✓ Data Filtering & Searching
-- ✓ Dashboard
-- ✓ REST API Integration
-- ✓ Authentication
-- ✓ Role-based Access
-
-#### 🛠️ Technologies
-`React.js` | `Material UI` | `Tailwind CSS` | `Redux Toolkit` | `RTK Query` | `React Hook Form` | `REST API` | `JavaScript`
-
-🔗 **Live Project:** [https://rams.bluebayit.com](https://rams.bluebayit.com/)
-
----
-
-### 🏥 Medical Center Management System
-A modern healthcare management platform designed for managing medical center operations.
-
-#### 🛠️ Technologies
-`React.js` | `Material UI` | `Tailwind CSS` | `Redux Toolkit` | `RTK Query` | `REST APIs` | `Responsive Design`
-
-🔗 **Live Project:** [https://soft.majumderhealthcare.com](https://soft.majumderhealthcare.com/)
-
----
-
-### 🌐 BlueBay IT Corporate Website
-A modern corporate website built with a modern frontend stack.
-
-#### 🛠️ Technologies
-`Next.js` | `TypeScript` | `Tailwind CSS` | `Shadcn UI` | `Responsive Design` | `SEO`
-
-🔗 **Live Website:** [https://bluebayit.com](https://bluebayit.com/)
-
----
-
-### 🧪 DIGP Test Platform
-A modern web-based platform with responsive UI and API-driven functionality.
-
-#### 🛠️ Technologies
-`React.js` | `Next.js` | `Tailwind CSS` | `REST API` | `Responsive Design`
-
-🔗 **Live Project:** [https://test.digp.org](https://test.digp.org/)
-
----
-
-### 📖 Quran Web Application
-A modern Quran web application focused on a clean and responsive user experience.
-
-#### 🛠️ Technologies
-`Next.js` | `React.js` | `Tailwind CSS` | `JavaScript` | `Responsive UI`
-
-🔗 **Live Project:** [https://quran-web-application-rho.vercel.app](https://quran-web-application-rho.vercel.app/)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuvo794&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shuvo794&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuvo794&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shuvo794/shuvo794/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📊 Development Skills
+### 💻 Technologies Breakdown
 
 ```text
 React.js        ████████████████████░ 90%
@@ -254,52 +65,118 @@ Node.js         █████████████░░░░░░░░ 
 MongoDB         ████████████░░░░░░░░░ 60%
 ```
 
----
-
-## 🌱 Currently Learning
-- 📱 React Native
-- ⚡ Advanced Next.js
-- 🟦 Advanced TypeScript
-- 🏗️ Scalable Frontend Architecture
-- 🤖 AI-assisted Development
-- 📱 Cross-platform Mobile Development
-- ☁️ Cloud & Deployment
-
----
-
-## 🎯 2026 Goals
-- 📱 Master React Native
-- ⚛️ Become stronger in advanced React architecture
-- 🚀 Build more production-level Next.js applications
-- 🤖 Explore AI-powered applications
-- 🌍 Contribute to Open Source
-- 📚 Improve System Design & Software Architecture
-- ☁️ Learn Cloud & DevOps
-
----
-
-## 💻 What I Can Build
-
-| 💻 Web Applications | 📱 Mobile Applications |
+| Category | Skill Highlights |
 | :--- | :--- |
-| ERP Systems | React Native Apps |
-| SaaS Platforms | Cross-platform Apps |
-| Admin Dashboards | Mobile Dashboards |
-| E-commerce | API-driven Apps |
-| Healthcare Systems | Business Apps |
-| Corporate Websites | Responsive UI |
+| **Frontend** | React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Shadcn UI |
+| **Mobile** | React Native, Expo, React Navigation, Mobile UI, REST API Integration |
+| **State Management** | Redux, Redux Toolkit, RTK Query, React Query / TanStack Query, Context API, Axios, React Hook Form, Zod |
+| **Backend & DB** | Node.js, Express.js, MongoDB, REST APIs, JWT Authentication |
+| **UI/UX & Design** | Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD, Design Systems, Pixel-Perfect Implementation |
+| **Tools & DevOps** | Git, GitHub, VS Code, Docker, Postman, NPM, Chrome DevTools |
 
 ---
 
-## 🤝 Open to Collaboration
+## 💼 Professional Experience
 
-I'm interested in collaborating on:
-- 🚀 Open Source Projects
-- ⚛️ React / Next.js Projects
-- 📱 React Native Applications
-- 🤖 AI-powered Applications
-- 💻 SaaS Products
-- 🌐 Modern Web Applications
+### 🚀 Software Engineer — Frontend
+Specialized in production-level ERP and enterprise application development, focusing on frontend architecture, UI performance, scalable state management, and seamless API integration.
+
+#### Key Responsibilities:
+- 🏗️ Develop scalable web applications using **React.js & Next.js**
+- 🧩 Build reusable and modular UI components
+- 🎨 Convert Figma/UI designs into pixel-perfect responsive interfaces
+- 🔌 Integrate REST APIs, handle async state, and manage auth/roles
+- 📊 Develop dashboards, complex multi-step forms (React Hook Form + Zod), and PDF/Excel reports
+- ⚡ Optimize frontend load time, bundle size, and rendering performance
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 RAMS — Recruiting Agency Management System (ERP)
+> A large-scale Recruiting Agency Management System (ERP) designed to manage recruitment operations and passenger-related workflows.
+
+- **Features:** Passenger Management, Employee Management, Passport Data Processing, Biometric Data, Excel/ZIP Upload, PDF & Excel Reports, Role-Based Access Control.
+- **Tech Stack:** `React.js` | `Material UI` | `Tailwind CSS` | `Redux Toolkit` | `RTK Query` | `React Hook Form` | `REST API`
+- 🔗 **Live Demo:** [rams.bluebayit.com](https://rams.bluebayit.com/)
+
+---
+
+### 🏥 Medical Center Management System
+> A modern healthcare management platform designed for managing medical center operations, patient data, and reports.
+
+- **Tech Stack:** `React.js` | `Material UI` | `Tailwind CSS` | `Redux Toolkit` | `RTK Query` | `REST APIs`
+- 🔗 **Live Demo:** [soft.majumderhealthcare.com](https://soft.majumderhealthcare.com/)
+
+---
+
+### 🌐 BlueBay IT Corporate Website
+> Official corporate website for BlueBay IT showcasing services, team, and portfolio with high SEO performance.
+
+- **Tech Stack:** `Next.js` | `TypeScript` | `Tailwind CSS` | `Shadcn UI` | `Responsive Design` | `SEO`
+- 🔗 **Live Demo:** [bluebayit.com](https://bluebayit.com/)
+
+---
+
+### 🧪 DIGP Test Platform
+> A modern web-based testing platform featuring API-driven functionality and dynamic reporting interface.
+
+- **Tech Stack:** `React.js` | `Next.js` | `Tailwind CSS` | `REST API` | `Responsive Design`
+- 🔗 **Live Demo:** [test.digp.org](https://test.digp.org/)
+
+---
+
+### 📖 Quran Web Application
+> A modern Quran web application focused on an elegant, accessible, and responsive user experience.
+
+- **Tech Stack:** `Next.js` | `React.js` | `Tailwind CSS` | `JavaScript` | `Responsive UI`
+- 🔗 **Live Demo:** [quran-web-application-rho.vercel.app](https://quran-web-application-rho.vercel.app/)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=shuvo794&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Activity & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvo794&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=shuvo794&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shuvo794&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shuvo794/shuvo794/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+> *Note: The Snake Animation updates automatically every 24 hours via GitHub Actions.*
+
+---
+
+## 🌱 Currently Learning & 🎯 2026 Goals
+
+- 📱 Master **React Native** & Cross-Platform Mobile Architecture
+- ⚡ Deep Dive into **Advanced Next.js App Router** & Server Components
+- 🟦 Advanced **TypeScript** & Design Patterns
+- 🤖 Exploring **AI-Assisted Development** & AI Tools Integration
+- 🌍 Active Contribution to **Open Source Projects**
+- ☁️ Learning Cloud Deployment & Frontend Infrastructure
 
 ---
 
@@ -312,21 +189,18 @@ I'm interested in collaborating on:
   <a href="mailto:shuvohossaim794@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://github.com/shuvo794" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-💡 **Developer Mindset**
-> *"I don't just write code — I build experiences, solve problems, and keep learning."*
+<p align="center">
+  <i>"I don't just write code — I build experiences, solve problems, and keep learning."</i><br><br>
+  <b>Thanks for visiting my GitHub profile! 🚀 Let's build something amazing together.</b>
+</p>
 
-⚡ **Fun Facts**
-- 💻 I enjoy turning ideas into real products.
-- ☕ Coffee + Code = Productive Day
-- 🐛 Bugs are just unexpected features.
-- 🚀 Always learning. Always building.
-- 📱 Currently exploring React Native.
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**  
-🚀 **Let's build something amazing together.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=100&section=footer" alt="Footer Banner" />
+</p>
